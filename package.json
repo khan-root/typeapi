@@ -26,6 +26,7 @@
     "express": "^4.20.0",
     "jsonwebtoken": "^9.0.2",
     "prisma": "^5.19.1",
-    "typeapi": "file:"
+    "typeapi": "file:",
+    "zod": "^3.23.8"
   }
 }
